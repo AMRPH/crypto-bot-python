@@ -31,7 +31,7 @@ def startBot():
         makeTrade()
         log()
 
-        time.sleep(900)
+        time.sleep(1800)
 
 
 def makeTrade():
